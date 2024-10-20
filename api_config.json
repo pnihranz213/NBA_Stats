@@ -1,0 +1,6 @@
+{
+    "api-key": "ojfyf7N58ypD8zvafp4Ce3BdShCHLGtDGTyY74dz",
+    "api-root": "https://api.sportradar.us/nba/trial/v8/en",
+    "timeout": 5,
+    "time_between_requests": 2
+}
