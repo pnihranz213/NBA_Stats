@@ -1,0 +1,472 @@
+year,game_id,game_date,home_team,away_team,home_name,away_name,home_pts,away_pts
+2018,e921cc4b-285b-4a94-810d-fb12eb785770,2018-10-19T02:30:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,128,119
+2018,4cc833b0-695d-4b46-9be3-4ca68c2d4c94,2018-10-21T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,115,124
+2018,9456eb61-ff8d-4577-b865-768a3431cb71,2018-10-23T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,142,143
+2018,00b58bc1-01ca-48c6-be11-dbc96aa71abc,2018-10-25T02:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,113,131
+2018,09589589-20a1-472d-9c25-d7ea2aef295d,2018-10-26T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,121,114
+2018,c0b0abe6-2a5c-400c-b685-5b62952df4c0,2018-10-28T00:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,110,106
+2018,363d9755-abe6-4a11-b7b0-35fa044e0381,2018-10-30T00:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,124,120
+2018,98ff0763-54ad-491e-bb8e-a38f13e0b5e4,2018-11-01T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,114,113
+2018,1427991b-e41e-421a-90b6-18f4003223e5,2018-11-04T02:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,110,114
+2018,a09941f0-8a51-4b8f-b08e-3533a26f9903,2018-11-05T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,107,121
+2018,d6c8a735-d461-476f-ad91-a73d4fb18b65,2018-11-08T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,114,110
+2018,bdc3c531-e12c-491a-afc5-decf6b42400c,2018-11-11T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,86,101
+2018,4220350f-9be2-459d-8d86-36cf06d04f1d,2018-11-12T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,107,106
+2018,7048a373-9b4c-480d-b9cb-64a96a1e5e6d,2018-11-15T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,126,117
+2018,eb216479-b64d-4452-9475-2d684633745b,2018-11-18T00:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,130,117
+2018,e7c17390-f598-4adf-8363-35b2154061c2,2018-11-18T23:00:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,97,113
+2018,c10fa40c-e291-432e-a6e8-008b048e835f,2018-11-22T01:00:00Z,583ec773-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Cleveland Cavaliers,Los Angeles Lakers,105,109
+2018,dde72cd4-0986-40a6-8eb8-e0e3aef095d6,2018-11-24T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,90,83
+2018,6d4e2b27-f291-4bbf-972e-f1996164a621,2018-11-25T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,104,108
+2018,0f296f88-dbb1-4691-b1b2-bfc9e5a8e849,2018-11-28T02:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,117,85
+2018,f769a9f7-0f2a-4582-8d0a-b992a495010b,2018-11-30T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Indiana Pacers,104,96
+2018,51c52518-dd0a-4be4-ba70-04791ef1dde9,2018-12-01T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,114,103
+2018,d289177e-49df-4bd5-bea4-93ab679689ed,2018-12-02T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,120,96
+2018,4b5afa7d-d7ee-4b24-8ce2-6c989f09396e,2018-12-06T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,121,113
+2018,76fcdd3a-b644-4f23-97cf-ad08ea63c119,2018-12-08T01:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,133,120
+2018,bb958f75-bb9f-458a-a2d0-5a9195af28ee,2018-12-09T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,88,111
+2018,b57a7945-3b2d-49dc-adc7-512baed8441d,2018-12-11T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,108,105
+2018,da29e33b-55c6-4de8-9304-bff80b04ac37,2018-12-14T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,126,111
+2018,39af541a-53bf-4add-8e49-9ea6c3b80664,2018-12-16T00:00:00Z,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Charlotte Hornets,Los Angeles Lakers,100,128
+2018,1479aff1-37f4-4754-9eb6-8e06201af486,2018-12-16T23:00:00Z,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Washington Wizards,Los Angeles Lakers,128,110
+2018,223741a1-37a0-4159-ab4c-58145d880de6,2018-12-19T00:30:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,115,110
+2018,6ba7d645-69ed-47f9-8d54-8137788b8a97,2018-12-22T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,112,104
+2018,19ab17b3-14b8-4e23-aa6c-8e715298c833,2018-12-24T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,99,107
+2018,ad83697b-5b9f-46e7-b03d-db389e03f59f,2018-12-26T01:00:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,101,127
+2018,c27504db-2eaf-4067-8a22-54fed017fad2,2018-12-28T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,117,116
+2018,09fc7e15-9604-41ad-a62c-2195c672ab62,2018-12-29T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Los Angeles Clippers,107,118
+2018,56ce831a-239a-40cb-bd65-ad82b6f0f0b2,2018-12-31T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,121,114
+2018,110613db-8bf9-4ba7-b9b1-a8f3aeb8d3c9,2019-01-03T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,100,107
+2018,4237c718-28a8-4bac-9290-92259c78fa2f,2019-01-05T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,112,119
+2018,07a89d1e-5101-4daf-bba0-ef23309de4a8,2019-01-06T20:30:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,108,86
+2018,9f0827aa-7011-4f75-83a5-bfc837cbd780,2019-01-08T01:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,97,107
+2018,27d03faa-254c-4b24-b870-a9d8080dc1c4,2019-01-10T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,113,100
+2018,b888d18d-f7b7-4b18-81cb-5ff9f68b937d,2019-01-12T03:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,113,95
+2018,04ddbf25-48e0-4225-8f5a-bd348e73f7b5,2019-01-14T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,95,101
+2018,06efba40-1fc7-4f00-a99b-913a97d3c224,2019-01-16T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Chicago Bulls,107,100
+2018,984144cd-87bd-41ef-b565-c3826f35cea0,2019-01-18T02:30:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,128,138
+2018,44ffca9f-cf81-4476-8b41-46e9ac97700c,2019-01-20T01:30:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,138,134
+2018,938f66c3-e419-49fa-b8ff-84b3d0ff3e47,2019-01-22T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,111,130
+2018,124038e7-beb7-4b10-a533-8bed1b02f56a,2019-01-25T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,105,120
+2018,b312fbf3-b8e0-4195-890e-15b4ed6e2125,2019-01-28T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,116,102
+2018,ce836e07-33c8-4fbb-9fe9-f099f2224a0b,2019-01-30T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,105,121
+2018,96c8b0d5-4518-4887-a50f-196b80cf52bb,2019-02-01T03:30:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Clippers,Los Angeles Lakers,120,123
+2018,cca0e4b6-c1ff-4af8-a70a-0714dd80de6b,2019-02-03T01:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,115,101
+2018,c784626e-1169-45fb-9fd1-0e7f0d9b1d5d,2019-02-06T00:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,136,94
+2018,7b9ee4b0-ec8f-4341-afc1-49a683011ee4,2019-02-08T01:00:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,128,129
+2018,83093ca6-d5c6-4af4-a432-8e4a717a350f,2019-02-10T20:30:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,143,120
+2018,9a42eaa6-40c4-449d-9f7c-2342d9656a1a,2019-02-13T00:30:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,117,113
+2018,5ecfae32-4688-41bc-9882-64cf2e7ba8c1,2019-02-22T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,111,106
+2018,941e324b-cabd-4d8a-b5a6-eb53a7adbe49,2019-02-24T00:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,128,115
+2018,ac8308b3-ab03-4cd2-9b89-afeaa47354ce,2019-02-26T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,110,105
+2018,f2993f01-f2ac-4062-8258-4773175df8f3,2019-02-28T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,125,119
+2018,b5e23232-6b64-45a3-b97b-d43c9f4db045,2019-03-02T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,120,131
+2018,6c24c0b0-ba58-43d1-abaa-1127f515471e,2019-03-03T02:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,118,109
+2018,eb8fdc4f-6f68-449a-9f12-b00572f30a55,2019-03-05T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Los Angeles Clippers,105,113
+2018,766422c5-c1e7-47d0-acc8-e121896c6dd0,2019-03-07T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,99,115
+2018,6092980b-8e9b-48fd-99ac-6c589b10877c,2019-03-10T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,107,120
+2018,2d0f9728-0b9f-4b4c-beec-bd0cdb3c9aef,2019-03-13T00:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,107,123
+2018,875b69c2-5a47-4ddb-bc70-2df4cf95d4c4,2019-03-15T00:00:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,111,98
+2018,9352efbe-9018-442b-ac31-86b84738d454,2019-03-15T23:00:00Z,583ec928-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Detroit Pistons,Los Angeles Lakers,111,97
+2018,faaf3b96-a5df-4712-8729-8e5e4f9f25fc,2019-03-17T16:00:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,124,123
+2018,c50dff33-c30d-4e7e-b07c-b10189f974e2,2019-03-20T00:00:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,115,101
+2018,dcc718dc-4786-4884-bd99-9d7f937b55c3,2019-03-23T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,106,111
+2018,230dd6ad-ee04-490f-a0ed-cebe2f54461f,2019-03-25T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,111,106
+2018,c28d27c8-8fbb-422a-a841-52095ac8e0bf,2019-03-27T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,124,106
+2018,0a4d96ea-6f91-47b5-894d-e46efb640b48,2019-03-28T02:30:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,115,100
+2018,343a8c9d-93fb-4166-9a3f-b549758c4996,2019-03-30T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,129,115
+2018,ced50f79-3549-43a6-8627-5882d404ec5d,2019-03-31T22:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,102,130
+2018,2f486bad-e2b1-4245-93ab-9cc5613fe455,2019-04-03T00:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,119,103
+2018,d410be06-2ddf-4ae0-9f52-50abf6352e2a,2019-04-05T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,90,108
+2018,92dfb974-7380-4392-a188-5604fcd3dc07,2019-04-06T02:30:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Clippers,Los Angeles Lakers,117,122
+2018,2858c028-5b5f-488c-8f83-4314098a8c2c,2019-04-08T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,113,109
+2018,b1f250d8-56a1-429f-9a5c-0464bf2dad9f,2019-04-10T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,101,104
+2019,a3f57f53-12cd-490c-831b-600be0d1041d,2019-10-23T02:30:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Clippers,Los Angeles Lakers,112,102
+2019,f5848b2f-259f-4d8c-9166-7892033ce42c,2019-10-26T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,95,86
+2019,3a7c0b91-1c62-44fe-a5fe-f8c2f94238fb,2019-10-28T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,120,101
+2019,9c5da58f-dd9f-488c-ba79-86a97cb18f14,2019-10-30T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,120,91
+2019,b3be597a-4b8a-40cc-bf38-883fecb95721,2019-11-02T01:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,110,119
+2019,79dc11a1-970f-4ce6-b91b-6104dfd43701,2019-11-04T00:00:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,96,103
+2019,5da5e11f-4e4c-4520-b981-96653a7caaae,2019-11-06T01:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,112,118
+2019,eca1ab01-cb51-44ef-9da4-f2fa7f51a184,2019-11-09T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,95,80
+2019,6b55cae8-22fa-4ecd-8ae3-50fcba35dcbc,2019-11-11T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,104,113
+2019,8144c3b1-c4c5-4f66-a6fc-3fb380000e71,2019-11-13T02:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,115,123
+2019,1cb478d2-2e3b-4b38-9eab-33ad92b7497a,2019-11-14T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,120,94
+2019,63036699-694c-4b8d-a34c-867062706607,2019-11-16T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,99,97
+2019,36d1b17d-223b-46fb-9ea7-b88210c2d869,2019-11-18T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,122,101
+2019,36dab28b-9a2d-496d-9413-cafe193e0949,2019-11-20T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,112,107
+2019,5c6fc632-fb1e-40c4-aba6-564effada843,2019-11-23T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,127,130
+2019,2d5d96e8-0773-4fe6-a94e-2a4966bda895,2019-11-24T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,108,109
+2019,7f75ed03-7fdc-4567-86d2-7b653914c4f8,2019-11-26T01:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,104,114
+2019,9a562c63-391a-4f5b-bb70-61facb9e2eaf,2019-11-28T02:30:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,110,114
+2019,9f53a38d-3492-4184-8958-c92ad0b9ab7f,2019-11-30T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,125,103
+2019,294fa725-585e-4475-b69c-91929cb55e1e,2019-12-01T21:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,100,114
+2019,d40f17c6-ca51-4baa-9e53-b362ac626686,2019-12-04T02:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,96,105
+2019,5b89dbd6-4d8a-44df-b450-3c480c92d52d,2019-12-05T02:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,96,121
+2019,4c0ae263-5602-4804-b01a-9ed75f928ab2,2019-12-07T03:30:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,113,136
+2019,070fa6a1-9357-410c-91a3-3ba840d0b09a,2019-12-09T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,142,125
+2019,60a3034f-e306-4466-be00-785b1f6ca42e,2019-12-12T00:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,87,96
+2019,1fb3e1ad-622c-4acf-9a2e-2fbd926840cd,2019-12-14T00:00:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,110,113
+2019,2d7fd044-a725-48aa-ab2a-1b330581bded,2019-12-15T23:00:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,96,101
+2019,caaff205-1b06-4238-add7-b9ed948ff8ed,2019-12-18T00:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,105,102
+2019,b50a9487-5350-485d-b008-0bbc0866d205,2019-12-20T01:00:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,111,104
+2019,7aa0ee48-a237-41f0-b951-071e785b1e83,2019-12-23T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,104,128
+2019,58d560ba-259b-4571-9d36-8278dca7f5bc,2019-12-26T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Los Angeles Clippers,106,111
+2019,8089cf9d-a35b-4ffb-bb53-eea290ccb1ce,2019-12-29T03:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,120,128
+2019,7952437c-d33d-4845-a828-07c665cf2316,2019-12-30T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,108,95
+2019,1584030a-4db9-41bc-8d14-332da987c8f6,2020-01-02T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,117,107
+2019,76e805b4-0273-4329-8496-94dbec8c073b,2020-01-04T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,123,113
+2019,51ae1d26-b427-4986-959d-8244b4e8bbab,2020-01-06T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,106,99
+2019,6be10dee-2fc8-4829-8330-eff3b583d553,2020-01-08T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,117,87
+2019,b6ce1e23-1a26-4e04-9807-37f1b2712af3,2020-01-11T02:45:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,114,129
+2019,9aee6dc8-dc11-4b1e-8e38-1282b9e196fe,2020-01-12T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,110,125
+2019,03f67ff2-0c06-44ab-b25f-a63ef62fb96b,2020-01-14T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,128,99
+2019,cfb0c0c8-cbb9-4961-b172-bd1a9c295d9d,2020-01-16T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,118,119
+2019,81d750e9-d168-46fe-9d51-d2d1fc2e76c1,2020-01-19T01:30:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,115,124
+2019,83356b18-8349-438c-a5a6-8ad077eed06a,2020-01-21T00:30:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,139,107
+2019,23b528e8-0e65-424e-b8d4-4e536658856c,2020-01-23T00:30:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,92,100
+2019,355d8cf3-800f-46e0-ac9d-97c5beb328a6,2020-01-24T01:00:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,113,128
+2019,e49cde52-63a9-40f1-8324-2dd1dd021b83,2020-01-26T01:30:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,108,91
+2019,e24e4fc8-5f17-4be8-9dff-6be2ba1a0d39,2020-02-01T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,119,127
+2019,dc10acd8-4a0b-4bb8-8db1-31021433b402,2020-02-02T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,113,129
+2019,a18bed68-9d69-4ca9-a652-b38008974079,2020-02-05T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,129,102
+2019,5b30ea08-b806-4729-bc23-f1598b9ae2da,2020-02-07T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,111,121
+2019,89b8c65b-ea40-4fd3-b30f-b4d4d86870ec,2020-02-09T01:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,120,125
+2019,d7f488f4-e389-4f18-ba4a-31fe80848cc2,2020-02-11T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,125,100
+2019,31ea0b2c-8b5f-4ac5-a1a5-954d25da7a03,2020-02-13T03:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,116,120
+2019,8bc1839f-0333-4c6d-b4b7-af49e8c45a46,2020-02-22T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,117,105
+2019,3cb13d34-cc65-45bb-93ee-9957ec41aecd,2020-02-23T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,114,112
+2019,8e968282-db00-46fd-9d4d-6b7000c974e6,2020-02-26T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,118,109
+2019,8c64ef32-6d8f-4afe-a55a-39f5e4709414,2020-02-28T03:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,86,116
+2019,51dfbbd6-975b-45bd-bfd7-726da42d6552,2020-03-01T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,105,88
+2019,a96883a6-9a8a-4a52-ab9e-31f9221ee68d,2020-03-02T01:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,114,122
+2019,fc7c20c4-c49f-4a94-b81c-31dad8a5f952,2020-03-04T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,120,107
+2019,0926b2c6-ed7b-4be0-8165-dad097726421,2020-03-07T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,113,103
+2019,8771ae41-e5ab-447d-8aa9-16d328e672bb,2020-03-08T19:30:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Clippers,Los Angeles Lakers,103,112
+2019,bacce297-90ca-45ac-a472-0b7cf57c352e,2020-03-11T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,102,104
+2019,4cd6bc04-16e1-400e-8f2b-90c33402bbf3,2020-07-31T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Los Angeles Clippers,103,101
+2019,dfad032a-201e-4d4e-80cd-e3913c2e48a9,2020-08-02T00:30:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,107,92
+2019,a8e12abc-9d37-44cb-8ab6-31b8f381939e,2020-08-04T01:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,108,116
+2019,8e9c3360-1aec-4354-9509-7a2b98a835f8,2020-08-05T22:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,86,105
+2019,296fd674-8d2d-4981-95a0-1d4df8178b63,2020-08-07T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,113,97
+2019,e48a799e-dc9a-430c-aea5-ea88d921bcd7,2020-08-08T22:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,116,111
+2019,f823af21-7995-4bd5-b970-d12caf12ad37,2020-08-11T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,124,121
+2019,7f9979f4-7956-4059-b238-43e7583115fc,2020-08-13T17:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,122,136
+2020,434e7bf3-7c6e-4433-9e4c-2ab68db626c0,2020-12-23T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,109,116
+2020,3a38e79d-b4d3-4691-bf44-5e196cb184ab,2020-12-26T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,138,115
+2020,ea3fd91d-803f-4576-a7c1-b739196018fc,2020-12-28T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,127,91
+2020,136a19d4-36d2-427a-865f-b7d4ef509a45,2020-12-29T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,107,115
+2020,311aa8c8-4411-4e79-88c2-7391463b6033,2020-12-31T01:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,107,121
+2020,4277f204-99a6-44ec-881c-0c16a625ed5a,2021-01-02T01:00:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,103,109
+2020,078fffc6-f2cc-41de-915b-deeb1850e9ea,2021-01-03T23:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,94,108
+2020,df42a13a-32c0-4daf-9324-a885d820a079,2021-01-06T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,92,94
+2020,b64724fa-b367-4122-9240-8b96f2bdc180,2021-01-08T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,109,118
+2020,00e0e24e-8716-4388-a0eb-58f74ab3a81b,2021-01-09T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Chicago Bulls,117,115
+2020,5ef3c5ec-2fa0-431d-ae95-eec9638cbde0,2021-01-11T00:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,102,120
+2020,b105d5cd-6f47-4544-bfe8-9a7b2a0f797f,2021-01-13T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,100,117
+2020,068e6410-2c9d-46b2-9b06-622d59a6bd07,2021-01-14T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,99,128
+2020,41f62746-5062-4421-8bd1-5f410df09bd6,2021-01-16T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,112,95
+2020,5e2e7cf0-54c8-4319-a9c6-153dcfe2cfe2,2021-01-19T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,113,115
+2020,cc055f7a-c03c-4a69-be07-d35f5ffde55d,2021-01-22T00:30:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,106,113
+2020,84e919eb-6851-4837-8781-fd5d2e216f7c,2021-01-24T02:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,90,101
+2020,8b81c907-a114-4e12-b371-3bd3a7767fd8,2021-01-26T01:00:00Z,583ec773-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Cleveland Cavaliers,Los Angeles Lakers,108,115
+2020,deb2ac2c-2aaf-40db-af98-a7492f89c208,2021-01-28T00:30:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,107,106
+2020,3a43cf36-f71a-4d20-9385-e99b78ae70f6,2021-01-29T01:00:00Z,583ec928-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Detroit Pistons,Los Angeles Lakers,107,92
+2020,59325068-ab84-4bd4-add4-d477eae71984,2021-01-31T01:30:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,95,96
+2020,75ca392f-8f4e-4afb-a10b-317f112adbe9,2021-02-02T00:30:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,99,107
+2020,7dcb1750-4484-4f25-a05f-5da941d7226a,2021-02-05T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,114,93
+2020,492b8f9f-d3c2-4eb7-a317-1e6a72ea1de0,2021-02-07T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,135,129
+2020,7d015ccd-5f7e-444d-8bb6-d81272be505e,2021-02-09T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,119,112
+2020,5e4f08fc-1d3b-41a5-bdd1-568e1a281c91,2021-02-11T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,114,113
+2020,66c741c6-e0e7-453d-a691-78a41831b881,2021-02-13T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,115,105
+2020,469dbf1b-9d91-4a6d-a02b-b778e44ee905,2021-02-15T03:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,122,105
+2020,296cd291-8e13-439b-b93a-af4d2df0cc5e,2021-02-17T01:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,104,112
+2020,c53a89c5-0f8f-4dd3-b9c0-cc3b3c80d440,2021-02-19T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,98,109
+2020,8de1a06a-6522-4838-81d5-068a584f99b9,2021-02-21T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,94,96
+2020,34a2437f-04da-4105-8ce5-f167c14f20b3,2021-02-23T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,124,127
+2020,456eeec0-a429-4f23-ad85-b14d91cc37db,2021-02-25T03:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,114,89
+2020,fe297b2a-e48b-44b0-a59a-bc0e1e83efe6,2021-02-27T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,102,93
+2020,dcca7aed-ad58-40a9-8c25-b94aa0482b88,2021-03-01T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,117,91
+2020,68af9bf3-eaa4-4e99-86d4-2b8230537de3,2021-03-03T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,104,114
+2020,aa9c9afa-de61-4d8b-bbb9-c6545b0eda9f,2021-03-04T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,123,120
+2020,5099c30c-1d90-408d-a250-f72ea2bb7ac0,2021-03-13T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Indiana Pacers,105,100
+2020,a3e5e2b0-7f45-4c28-a1bf-843c0954de53,2021-03-16T02:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,97,128
+2020,2147408e-fcbe-4f1a-949e-426cfb7eaa23,2021-03-17T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,137,121
+2020,bdc684e4-20d4-4657-8387-ff5070096465,2021-03-19T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,116,105
+2020,bd0677cd-9252-4086-9c19-178f71cd99f5,2021-03-20T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,94,99
+2020,2ab0fac3-4904-4622-b452-45cb14cb353c,2021-03-22T02:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,111,94
+2020,96b491c9-fb9e-4024-968e-b56794bb1b07,2021-03-23T23:30:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,128,111
+2020,cb0a79a2-c9fc-4831-a009-b537598cd4dc,2021-03-26T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,101,109
+2020,c63c860e-8051-42a2-9804-561866bb5a5a,2021-03-27T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,100,86
+2020,4ac96780-e810-4d4f-b6c8-ea1070c9f1c5,2021-03-29T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,96,93
+2020,138311fd-ce67-481b-aeef-18be15ddb498,2021-04-01T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,97,112
+2020,15a171aa-6d7f-4d80-9a76-d42991923971,2021-04-03T02:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,94,115
+2020,bc7785d2-12ec-43bc-b9bd-45de8e01e85b,2021-04-04T19:30:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,104,86
+2020,7346e7b8-2b0a-4c9f-a3d0-49a42e713177,2021-04-06T23:30:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,101,110
+2020,2bbd76db-a18e-4927-b867-fad739462afa,2021-04-08T23:30:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,110,104
+2020,acdb94af-59c4-4103-9d5d-bc09105dbaa6,2021-04-11T00:30:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,101,126
+2020,f9038b61-1139-4cdd-9b0f-c32f585be6e3,2021-04-12T23:30:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,111,96
+2020,4317edf9-6c6d-42b2-99e7-ee7d7669ac8f,2021-04-14T00:00:00Z,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Charlotte Hornets,Los Angeles Lakers,93,101
+2020,59e7aa2b-4a85-4816-8984-e39bd1940a3a,2021-04-16T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,113,121
+2020,1bf25c8b-fb21-432e-8b2b-651b3d15f16e,2021-04-17T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,127,115
+2020,85864c4d-f996-4978-ba42-ffe14572b157,2021-04-20T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,97,111
+2020,88c5dd2a-b9b6-4af0-babe-1796471c7f35,2021-04-23T01:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,115,110
+2020,1324f0e1-f3e4-4902-9164-cc91ee082864,2021-04-25T00:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,108,93
+2020,bf06696e-f235-4057-a8b1-39b23555e153,2021-04-26T23:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,103,114
+2020,d286c98e-2926-4592-be9a-094b07ce9ee6,2021-04-28T23:30:00Z,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Washington Wizards,Los Angeles Lakers,116,107
+2020,43c18560-53b5-41c8-8f53-4965d998c017,2021-05-01T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,106,110
+2020,330b78ee-38cf-4597-a03f-35c874bb41de,2021-05-03T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,114,121
+2020,f055a8bd-45b7-4dfd-b561-b7f090df6b40,2021-05-04T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,93,89
+2020,74bc7995-282b-422b-a982-bfd8616efc79,2021-05-07T02:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,118,94
+2020,b9591e54-70d5-4047-a236-e272af163158,2021-05-08T02:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,106,101
+2020,10e4e3fe-3bda-4998-8d6a-c9ab1bc63d7d,2021-05-10T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,123,110
+2020,863c17a9-c449-4768-a419-63e959d134a0,2021-05-12T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,101,99
+2020,640aaa0a-ddc1-4f7f-9535-df20e0cf1436,2021-05-13T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,124,122
+2020,a7bc0720-7d55-4591-b71c-0900ff08449a,2021-05-15T17:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,115,122
+2020,62d6230b-0c4f-4c7e-b4c1-c0f4264160c6,2021-05-17T01:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,98,110
+2021,16b3619b-5b6a-46a1-b70f-6e7ef8b5330f,2021-10-20T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,114,121
+2021,c90724b1-b19b-4e5a-ae99-2744f275fbc6,2021-10-23T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,105,115
+2021,ecaa748b-52fd-45c4-8cea-fea6d66ed272,2021-10-25T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,121,118
+2021,569f90da-90ba-4b6d-9476-bba63a6eb5dd,2021-10-27T00:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,121,125
+2021,050e6a80-58c8-4513-91e4-f86df16b14b2,2021-10-28T00:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,123,115
+2021,3558f62a-7177-42f9-9d0c-7a5e267e0bde,2021-10-30T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,113,101
+2021,ee7ba8bb-6024-492a-b991-c0e9424bffd4,2021-11-01T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,95,85
+2021,1a9b21ea-da56-41f1-aca3-2868feb3696d,2021-11-03T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,119,117
+2021,99f993e4-0b04-4973-a6b8-18653ffddaa0,2021-11-05T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,104,107
+2021,2b4c6397-1c10-4ee6-bd9d-8a08922f9c93,2021-11-07T02:30:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,105,90
+2021,0fc86de2-6c98-4b1a-a66e-5ee6b9d06126,2021-11-09T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,126,123
+2021,ebda91e7-6c31-4569-bbb2-4801bd742fe1,2021-11-11T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,120,117
+2021,5f412c60-acc6-4e52-81a8-5deb176b56af,2021-11-13T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,83,107
+2021,9397c3e5-3acf-4d8d-859b-9adf776f0d04,2021-11-14T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,114,106
+2021,f168f9f9-575b-4211-b3cd-044d63cb96b4,2021-11-16T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Chicago Bulls,103,121
+2021,ac62d95e-abc6-4980-b38b-6a3857ec4a54,2021-11-18T00:30:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,109,102
+2021,29f4e66f-3635-4d1b-9799-66465d344530,2021-11-20T00:30:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,130,108
+2021,0271237c-1a05-4d9e-b93a-15b472343c26,2021-11-21T23:00:00Z,583ec928-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Detroit Pistons,Los Angeles Lakers,116,121
+2021,b7c8460a-17ef-4818-8fcb-527228222ce6,2021-11-24T00:30:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,106,100
+2021,e701ba0d-c1ed-434c-89e9-88f9e5fa6f70,2021-11-25T00:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,116,124
+2021,a4ea6917-8914-41bf-824b-1ec7d618d624,2021-11-27T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,137,141
+2021,73523218-db52-4b80-9d5f-7428887080d9,2021-11-29T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,110,106
+2021,1f5f9637-b002-4815-b367-93d543a90fab,2021-12-01T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,92,117
+2021,f396b718-898e-4938-bb81-beb35dd33fe7,2021-12-04T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,115,119
+2021,25c09e0a-ee5f-4dad-98be-c79342ee2868,2021-12-08T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,117,102
+2021,485fa444-6d90-4631-99ed-67f1c3f6f3e4,2021-12-10T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,108,95
+2021,e58cc734-6038-486d-a872-ff441a0be62d,2021-12-11T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,95,116
+2021,95505eef-155c-407a-b703-25028dd0ddaf,2021-12-13T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,106,94
+2021,57d6fa77-9288-4d58-8f42-19e8d6c08eaf,2021-12-16T00:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,104,107
+2021,455e2b0b-babc-43de-8c55-a54b9b299cbb,2021-12-18T03:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,110,92
+2021,8b6dc4ac-3aca-41ac-80d8-39114f274536,2021-12-20T01:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,115,110
+2021,22ad9f4f-3e5f-4ae2-95bc-d7d1127717c5,2021-12-22T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,90,108
+2021,219795a7-1663-4881-8f52-0cdc5a14aedc,2021-12-24T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,110,138
+2021,d36df8d7-4180-4995-92d1-abc396624f32,2021-12-26T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,115,122
+2021,4ee662b8-0043-4c3f-b9e9-1501fba98d99,2021-12-29T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,123,132
+2021,39f62258-b836-4ea3-a284-14a5766e3715,2021-12-30T01:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,104,99
+2021,6ebfb33a-6d46-4357-b453-8db979fb70cc,2022-01-01T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,139,106
+2021,1d28205b-71ac-4211-8181-25f64772b01d,2022-01-03T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,108,103
+2021,4abc41bc-79de-4d8e-afd2-4599ccd18fe2,2022-01-05T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,122,114
+2021,06bcca2c-30cf-4cb6-b7dc-c8ac127c8b9b,2022-01-08T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,134,118
+2021,6d88e096-50fc-4fbb-a5e4-79539ccb261c,2022-01-10T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,119,127
+2021,1129ece8-2d3e-45cb-9a3a-c2905f284c71,2022-01-13T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,125,116
+2021,07a293d2-d5f8-44c4-b664-d2653e398d02,2022-01-16T02:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,133,96
+2021,b6ff0fcf-281d-42fe-82e4-cff2d9cb5320,2022-01-18T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,101,95
+2021,505a796a-8dae-45aa-9db2-0ae473828497,2022-01-20T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Indiana Pacers,104,111
+2021,6f98e6e3-5316-4836-89c5-16db192aa99d,2022-01-22T00:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,105,116
+2021,fc4a36f6-082c-4891-8fe0-36c9a6075725,2022-01-23T23:00:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,113,107
+2021,383dac7a-a2e1-4792-979e-76be05b9a4e5,2022-01-26T00:30:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,96,106
+2021,0e740721-0d3e-43e3-b2be-effbde80cadd,2022-01-28T00:30:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,105,87
+2021,ecaffb32-eb0e-4cd4-a921-ee86bf1ebbe4,2022-01-29T00:30:00Z,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Charlotte Hornets,Los Angeles Lakers,117,114
+2021,f17443a1-d53f-4dde-a2c7-6ddbdc1091c6,2022-01-30T18:00:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,129,121
+2021,96609c09-d274-46ae-9a7f-ccf90b796227,2022-02-03T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,99,94
+2021,fc33d6bc-5745-4edc-ab22-63f7815547cd,2022-02-04T03:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,111,110
+2021,568c52d0-3c73-4385-aa6f-a4673dbd9a35,2022-02-06T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,122,115
+2021,2bb023ed-e3f8-4b6e-8714-59dc5ac66668,2022-02-09T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,116,131
+2021,39f99f48-9477-4081-8856-8dcc0e37789b,2022-02-10T03:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,107,105
+2021,48fc7811-3e9a-4254-8fcd-7070917e116b,2022-02-13T01:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,117,115
+2021,a28729b6-f3f8-41c8-a04b-38f37367f267,2022-02-17T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,106,101
+2021,7aea99ac-f4ee-4554-92a0-40b566f5ecd6,2022-02-26T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,102,105
+2021,86f908bc-7e29-4b01-acb2-258f72a51192,2022-02-28T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,95,123
+2021,7c5e78a8-a93f-4b1c-b2a7-822605a0c430,2022-03-02T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,104,109
+2021,d3b5bf2a-0e29-4859-ab77-c1068cb14786,2022-03-04T03:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,132,111
+2021,e8b17a78-517f-47fe-a190-03c670666ca6,2022-03-06T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,124,116
+2021,8f2b6b8a-ad81-4408-b8b9-28e31840cf69,2022-03-08T01:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,117,110
+2021,261d81ed-6627-43d6-bc9e-19e0d3e0d39b,2022-03-10T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,139,130
+2021,2e0e5114-3ebc-4114-8f54-03657ca17f9b,2022-03-12T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,122,109
+2021,ec79ff2f-c18e-44c4-8b75-1ff48b2b3779,2022-03-14T01:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,140,111
+2021,341e99f4-9870-440c-82fe-d2822f7dddb2,2022-03-15T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,103,114
+2021,bb2e7eff-f6c9-48a3-9d33-c173133daaea,2022-03-17T00:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,124,104
+2021,e151c30b-ac5f-4eb7-a660-8863e70ccf8c,2022-03-18T23:30:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,123,128
+2021,ab27bdf3-8937-425a-9aea-19ed098880b0,2022-03-20T00:00:00Z,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Washington Wizards,Los Angeles Lakers,127,119
+2021,f9ea6105-6b68-425b-ad44-a4c4b26a6910,2022-03-21T23:00:00Z,583ec773-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Cleveland Cavaliers,Los Angeles Lakers,120,131
+2021,25c19acd-d15e-40ab-8a65-64fe28a0d6f7,2022-03-24T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,121,126
+2021,57dff635-df71-4a24-9285-c8110472dd4d,2022-03-27T23:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,116,108
+2021,93afbd2a-6f0f-4541-b3a0-78e681767e2c,2022-03-29T23:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,128,110
+2021,fde7ad1c-c28a-4071-8edd-e85383733144,2022-04-01T02:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,122,109
+2021,644b416d-8c9d-4e48-b5b0-f33a883133a5,2022-04-02T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,111,114
+2021,e5db348f-7adf-4200-ac40-5c77f927450e,2022-04-03T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,118,129
+2021,d95fb4e5-6bd4-4404-8e70-57ad225d6d62,2022-04-06T02:30:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,121,110
+2021,772625a8-7eb5-4450-aa0e-1824ddab001d,2022-04-08T02:00:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,128,112
+2021,01e79e2d-a1b6-43fc-bdde-b1619d5b1454,2022-04-09T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,120,101
+2021,9a8fee76-e524-4d28-b5cd-23c9e5ee92c5,2022-04-11T01:30:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,141,146
+2022,c665e441-9f38-48a7-8796-1f7292f97db1,2022-10-19T02:00:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,123,109
+2022,a086ff62-43b2-4c27-899f-ac37c8512df7,2022-10-21T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,97,103
+2022,0fa1de46-4dc2-4dd4-97c8-6eeb85e3aa1a,2022-10-23T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,104,106
+2022,cc257f48-92ee-4f2b-a8f3-db1a449c2d64,2022-10-27T02:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,110,99
+2022,8da851c5-a2aa-492b-ae68-b71274c15e10,2022-10-29T00:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,111,102
+2022,c998a165-98a8-48ea-9f74-dbc5d14bb59e,2022-10-31T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,121,110
+2022,c04eb6e4-2751-4659-b634-5463dcf16e37,2022-11-03T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,120,117
+2022,a3ed3fbb-e76a-41f7-981f-479a478c139e,2022-11-05T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,116,130
+2022,b5f8d73c-2953-42f9-b8df-76ddda085c60,2022-11-06T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,100,114
+2022,75a0864e-788a-40e9-bd13-fe3579a5b444,2022-11-08T03:15:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,139,116
+2022,4bafad65-eadd-48b8-862c-23a942b27f8d,2022-11-10T03:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,114,101
+2022,831a97a4-c852-4967-9445-dc1e37360a6a,2022-11-12T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,114,120
+2022,4a5b9d48-a78e-45a9-aa0a-2bd295bbf9f5,2022-11-14T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,116,103
+2022,f266ad40-9bb4-4e6a-bdb7-447879157aa2,2022-11-19T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,128,121
+2022,0655af7f-37cc-4ce8-b79a-e38680f48466,2022-11-21T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,123,92
+2022,88f0f02d-a3cf-4088-be6a-2b4f85139fbe,2022-11-23T03:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,115,105
+2022,1f6a66e4-7b8f-4956-81eb-07a93d8900ed,2022-11-26T01:00:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,94,105
+2022,0ce259b5-b39d-4078-af7a-dd526036702c,2022-11-27T01:00:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,138,143
+2022,53921459-75d3-49c8-89d3-2aa429686b0b,2022-11-29T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Indiana Pacers,115,116
+2022,6948a6ba-3409-482d-befd-c58652ad7698,2022-12-01T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,128,109
+2022,824d045b-6ad8-49b0-9442-87c4e9af11a9,2022-12-03T00:30:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,129,133
+2022,cb171b61-8866-4346-8807-2b1df28d82cc,2022-12-04T23:00:00Z,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Washington Wizards,Los Angeles Lakers,119,130
+2022,b6801152-855b-4fa2-b403-515b2aca8b2b,2022-12-07T00:30:00Z,583ec773-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Cleveland Cavaliers,Los Angeles Lakers,116,102
+2022,4a519079-1652-4f42-8fa1-8f1fd9ef37be,2022-12-08T00:30:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,126,113
+2022,5f8a1929-6ceb-4f4b-aaba-0d2837058ba2,2022-12-10T00:30:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,133,122
+2022,9b0513e8-b15a-4bb1-94c7-a36c8fe00842,2022-12-11T23:00:00Z,583ec928-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Detroit Pistons,Los Angeles Lakers,117,124
+2022,328af66b-65e5-43e3-b64e-323149a6e71c,2022-12-14T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,118,122
+2022,45879090-3433-4d0d-b643-bdf301278949,2022-12-17T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,126,108
+2022,34dd7136-72cb-4d36-944c-b8d62b5c2a7e,2022-12-19T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,119,117
+2022,ff6489c8-cb32-4671-a26a-fc537d2f8712,2022-12-20T02:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,130,104
+2022,0633b3fc-2b2f-44f2-9421-347e1399033d,2022-12-22T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,134,120
+2022,911ad421-3cdf-4598-9162-fb18d6ec567a,2022-12-24T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,130,134
+2022,57c38ee1-98cf-4263-a9ae-f653d094bb79,2022-12-25T19:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,124,115
+2022,fb1dcee0-01cb-4992-9709-ba6247fb199f,2022-12-28T00:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,110,129
+2022,2478af4d-32ab-4a45-91c7-b18c0d781378,2022-12-29T00:30:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,112,98
+2022,67b5883d-9690-436e-b493-fae79af7762c,2022-12-31T00:30:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,121,130
+2022,15f0fe3f-c23a-4f6d-81f5-6f742259c0b7,2023-01-03T00:00:00Z,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Charlotte Hornets,Los Angeles Lakers,115,121
+2022,9cd34813-1d68-410f-9066-290314c37b82,2023-01-05T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,112,109
+2022,6a65a997-c231-4e4a-8c78-5740f208be2d,2023-01-07T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,130,114
+2022,7f23fe4d-0266-4aa3-a77b-8a23f8fcce6a,2023-01-08T03:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,134,136
+2022,96f21dcb-6564-47f2-8f38-779a73a12475,2023-01-10T02:00:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,122,109
+2022,7ab54997-4e32-4bb1-aa95-72c5da3c07a3,2023-01-13T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,115,119
+2022,ee87e101-04c1-46bb-9322-b8ff5db265a1,2023-01-16T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,112,113
+2022,72d30ba0-5105-4f76-bee6-d04b4fd59e55,2023-01-17T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,140,132
+2022,a398fe93-53e4-4060-8e8d-8f8213cce5ab,2023-01-19T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,111,116
+2022,d498681d-f671-449c-a706-dbc95bb92771,2023-01-21T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,122,121
+2022,6decf9f6-cf39-4bf4-94b1-0acc349bfb69,2023-01-23T02:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,112,121
+2022,80915451-4ee9-43a7-b56d-10fd5a9aa2e1,2023-01-25T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,115,133
+2022,631a8a43-0922-43e5-9fcf-0e822ce8b38b,2023-01-26T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,113,104
+2022,08884ad9-7ea7-410f-a7eb-67b5593a8a74,2023-01-29T01:30:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,125,121
+2022,48779446-4f86-44b3-904a-dcc3dccbe5fd,2023-01-31T00:30:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,121,104
+2022,04f1b089-3990-4229-bd75-c0442d3228b5,2023-02-01T00:30:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,123,129
+2022,c617c9e4-a634-47a7-9bd9-e1fd072c9c73,2023-02-03T00:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,111,112
+2022,15e3aca1-bc5a-46e2-b42c-7a12f302afd6,2023-02-04T23:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,131,126
+2022,a91d75f3-226f-41d8-afb5-6ba8d4b1b8fe,2023-02-08T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,130,133
+2022,5de0664b-34ba-4532-ba24-9da63a9bfe38,2023-02-10T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,106,115
+2022,e1b961a4-48f4-493a-ab1e-cf5c5119faec,2023-02-12T01:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,103,109
+2022,8b4e2290-5bef-429b-be45-22805eaec7a0,2023-02-14T03:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,127,115
+2022,b2ac47ac-838b-4c6d-9d31-cf8630b2852f,2023-02-16T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,120,102
+2022,48161d93-62ff-400e-aa88-a4cc549b0afb,2023-02-24T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,124,111
+2022,1ac344c7-bb34-4e57-b133-5da68c07d81a,2023-02-26T20:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,108,111
+2022,dd487c97-34b2-4bda-9b47-09fe381ece5c,2023-03-01T00:30:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,121,109
+2022,de70e3b8-1bfd-447e-b31d-f18ee56538a4,2023-03-02T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,117,123
+2022,e0d10da0-4aa3-4876-a729-36b0b2598aef,2023-03-04T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,102,110
+2022,deff14a3-3007-4a80-86cb-4891739d51c1,2023-03-05T20:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,113,105
+2022,f81e6488-d39d-4d2b-bcde-82328cadaf2c,2023-03-08T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,112,103
+2022,74128bae-1028-474e-b89c-53c102a8ad1f,2023-03-11T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,122,112
+2022,600a557e-eace-4bcc-91a6-3948198a97e1,2023-03-13T01:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,108,112
+2022,878c0844-6e56-4d9d-9695-193afa7852f4,2023-03-15T00:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,108,123
+2022,786e5b23-5e9e-4590-b71d-faf9ed6c34d5,2023-03-16T00:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,114,110
+2022,fc0a6faf-9891-4e88-9af0-c52f1affcd97,2023-03-18T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,110,111
+2022,94325838-8331-4e02-a5d1-7640ce273a05,2023-03-20T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,111,105
+2022,2f4a0173-070f-4e9e-869f-d18cc5b835b8,2023-03-23T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,122,111
+2022,e77eb681-615e-419a-8a87-2c21ad1f055c,2023-03-25T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,116,111
+2022,5863677b-1cf8-49bb-9dbc-d546bafb01ba,2023-03-26T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Chicago Bulls,108,118
+2022,0e188476-f899-4e17-97cc-c5c05aadd3e2,2023-03-30T00:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,110,121
+2022,3fcbd309-bd46-4706-9ce1-1b3314205db2,2023-04-01T00:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,111,123
+2022,3524c8cf-834c-49bd-be75-fe3d9d6e0f02,2023-04-02T23:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,109,134
+2022,d9dbdd50-6689-4f02-92c4-1cf88cba6e9e,2023-04-05T01:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,133,135
+2022,49e67a97-f6f0-4242-b011-6823bc582d7c,2023-04-06T02:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,125,118
+2022,e25257b2-9131-4709-90df-659dd2a323fb,2023-04-08T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,121,107
+2022,1be14ab1-e51e-4a99-9800-9beabdcf0beb,2023-04-09T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,128,117
+2023,0343c99e-bd5e-4887-aa21-94875b8dfba3,2023-10-24T23:30:00Z,583ed102-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Denver Nuggets,Los Angeles Lakers,119,107
+2023,6b977a9a-8eec-44c3-85ca-ec8787d7dad0,2023-10-27T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,100,95
+2023,ae6d6283-bd65-42b4-ab26-8b5f7ceb6fe2,2023-10-30T01:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,132,127
+2023,d10e69fa-0e80-47e5-8361-58b9573abf35,2023-10-31T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed157-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Orlando Magic,106,103
+2023,602e90bb-dfaf-46ad-8e26-cb7c5994f0ee,2023-11-02T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,130,125
+2023,72f8fad8-affc-46d3-9833-33f63eeddb74,2023-11-04T23:00:00Z,583ed157-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Orlando Magic,Los Angeles Lakers,120,101
+2023,4560cd9f-e016-40af-bf7a-c3a943d2c5f9,2023-11-07T00:30:00Z,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Miami Heat,Los Angeles Lakers,108,107
+2023,4ad4f7b2-d8ce-4ff4-90e3-b314af742d81,2023-11-09T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,128,94
+2023,bd8f5c76-6f72-45b1-a567-fe84d924bf16,2023-11-11T03:00:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,119,122
+2023,49858b43-b261-415d-bb33-5b723ad66267,2023-11-13T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,116,110
+2023,3e6b7b1c-2b26-44f3-a9d6-6adfdb053fc0,2023-11-15T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,134,107
+2023,2d1466ef-6207-493f-8a4b-31266e54edb6,2023-11-16T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,110,125
+2023,28af7274-1262-4898-98eb-6f09a4f96553,2023-11-18T03:00:00Z,583ed056-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Portland Trail Blazers,Los Angeles Lakers,95,107
+2023,04f9b88c-3f02-43b4-9c71-3e5f03003e63,2023-11-20T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,105,104
+2023,23968d39-06f3-44dc-87c4-ea1d32cf935d,2023-11-22T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ece50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Utah Jazz,131,99
+2023,694a0f35-f4e8-4be0-9e15-d7d102441b50,2023-11-23T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,101,104
+2023,6e1e985b-b5f6-413e-9ab3-74754fdcc813,2023-11-26T00:30:00Z,583ec773-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Cleveland Cavaliers,Los Angeles Lakers,115,121
+2023,c5d4eff2-c2c5-4bbc-81b3-265d8d96084a,2023-11-28T00:00:00Z,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Philadelphia 76ers,Los Angeles Lakers,138,94
+2023,03f1cfcc-cbda-4530-9fe9-fd38b3d4320f,2023-11-30T00:00:00Z,583ec928-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Detroit Pistons,Los Angeles Lakers,107,133
+2023,0a49b8b0-53dc-4e16-ab6c-d4c1938ed65b,2023-12-01T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,133,110
+2023,ab8c87d9-1970-4877-94bd-63399f575499,2023-12-03T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Houston Rockets,107,97
+2023,43434e91-e9ed-45b1-8c7e-eaac6d884438,2023-12-06T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,106,103
+2023,e70b481d-001a-4c71-8e1d-ccb5f2603f29,2023-12-08T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,133,89
+2023,33b2257b-edc9-40bf-95d5-e6c7890dd3a6,2023-12-13T00:30:00Z,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Dallas Mavericks,Los Angeles Lakers,127,125
+2023,133b3e7b-ced4-4dc3-b853-24970691d812,2023-12-14T01:00:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,119,122
+2023,d11df9a2-3c32-4e32-9ceb-e5fec0fb89f2,2023-12-16T00:30:00Z,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,San Antonio Spurs,Los Angeles Lakers,129,115
+2023,b5976142-b1fc-404b-b985-43d9ffa88219,2023-12-19T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New York Knicks,109,114
+2023,48686984-0958-4578-b797-b4419089dc23,2023-12-21T01:00:00Z,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Chicago Bulls,Los Angeles Lakers,124,108
+2023,4abf46ed-bb11-4c13-ad8c-88f9ee790899,2023-12-22T02:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,118,111
+2023,4817a996-106c-4706-881a-a3348bef1788,2023-12-24T01:00:00Z,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Oklahoma City Thunder,Los Angeles Lakers,120,129
+2023,8a9a2daa-3f8b-42d5-97d4-d317b49193f8,2023-12-25T22:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Boston Celtics,115,126
+2023,b7bd9ab1-3a69-41e9-97f2-901abea63647,2023-12-29T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Charlotte Hornets,133,112
+2023,0719188f-f594-4b52-b113-6e3f331f77da,2023-12-31T01:00:00Z,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Minnesota Timberwolves,Los Angeles Lakers,108,106
+2023,692b3d6d-4687-4e60-bd0b-af126b4e7900,2024-01-01T00:00:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,129,109
+2023,748e2f5c-cee1-4d06-940e-d52a56bb7102,2024-01-04T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Miami Heat,96,110
+2023,9ecdf882-dbcd-485a-830d-acc0126bd324,2024-01-06T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca88-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Memphis Grizzlies,113,127
+2023,83107ea5-0c5b-4acc-8954-eee33b7a626a,2024-01-08T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,LA Clippers,106,103
+2023,d8363472-2516-44a2-952e-3eb41f470648,2024-01-10T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Toronto Raptors,132,131
+2023,3994bcf9-0516-48a5-b77c-ce1fd7573a14,2024-01-12T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Phoenix Suns,109,127
+2023,20b9963f-5562-4129-a164-8f28df9c292c,2024-01-14T02:30:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,132,125
+2023,11bd3826-2810-49a1-9d79-67b4a88103a3,2024-01-16T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,112,105
+2023,b887e60b-7737-4a36-b402-0430afbd5006,2024-01-18T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Dallas Mavericks,127,110
+2023,30863221-e7bc-4338-8d2f-77a17f9876f4,2024-01-20T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Brooklyn Nets,112,130
+2023,ab3f39bc-fa0e-41c6-80bc-227d3ed9e146,2024-01-22T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed056-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Portland Trail Blazers,134,110
+2023,4006b46a-601e-450d-ab8a-e83decd02439,2024-01-24T03:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,127,116
+2023,eefd22e7-5022-40ce-a541-9817aaf1201d,2024-01-26T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Chicago Bulls,141,132
+2023,e586b061-9dfc-4b9c-bdb2-85186a02ef46,2024-01-28T01:30:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,144,145
+2023,d60011f7-b926-4089-9b83-8cbdb00c5ca6,2024-01-30T01:00:00Z,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Houston Rockets,Los Angeles Lakers,135,119
+2023,be55ffdd-fc87-4875-affe-d333eacecd19,2024-01-31T00:30:00Z,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Atlanta Hawks,Los Angeles Lakers,138,122
+2023,71a1d51e-5e20-455d-ad51-5dfcd96112cd,2024-02-02T00:30:00Z,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Boston Celtics,Los Angeles Lakers,105,114
+2023,d0550812-9a3a-4eac-9936-530d955b8c6a,2024-02-04T01:30:00Z,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New York Knicks,Los Angeles Lakers,105,113
+2023,c72f6f2c-dd92-434a-91d3-3def1a205baf,2024-02-06T00:00:00Z,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Charlotte Hornets,Los Angeles Lakers,118,124
+2023,72e3ecce-3002-4bbe-90ce-012358bcd006,2024-02-09T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,106,114
+2023,8cb61b0e-aeff-41aa-b692-d4b5a3b4007f,2024-02-10T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,New Orleans Pelicans,139,122
+2023,0f031e19-4e2f-4af3-b26b-8a19e9a9b61c,2024-02-14T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec928-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Detroit Pistons,125,111
+2023,9bb7ee3b-85cd-40e5-9627-0113e5053954,2024-02-15T02:00:00Z,583ece50-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Utah Jazz,Los Angeles Lakers,122,138
+2023,417cf5e9-0392-449b-ba7a-4576aa337c7b,2024-02-23T03:00:00Z,583ec825-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Golden State Warriors,Los Angeles Lakers,128,110
+2023,fc9f7af5-97dc-4d9d-b85b-a4d7ac9f78b3,2024-02-24T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,San Antonio Spurs,123,118
+2023,c7aeef68-83d8-4118-93ed-7e5770f97329,2024-02-25T20:30:00Z,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Phoenix Suns,Los Angeles Lakers,123,113
+2023,cfd54b96-2d99-4a41-8111-8c22bc8b19e1,2024-02-29T03:00:00Z,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,LA Clippers,Los Angeles Lakers,112,116
+2023,4bf1a615-76cc-47a2-9f9a-48c54ec68913,2024-03-01T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Washington Wizards,134,131
+2023,7369c6c2-1523-44c2-8693-5e4837e58560,2024-03-03T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed102-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Denver Nuggets,114,124
+2023,10bec4e7-c941-42f4-ab72-b65e1dcd9861,2024-03-05T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Oklahoma City Thunder,116,104
+2023,bfb83e58-15af-40a2-a905-9275b7cf8471,2024-03-07T03:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Sacramento Kings,120,130
+2023,b57c82b4-7369-4e1d-8619-e96cb59ae053,2024-03-09T03:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Milwaukee Bucks,123,122
+2023,53d1a56d-5ec8-451a-a96f-94644b3e5084,2024-03-11T01:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,120,109
+2023,b98cfedc-245e-493f-9843-f2ec26c0d0b7,2024-03-14T02:00:00Z,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Sacramento Kings,Los Angeles Lakers,120,107
+2023,3b30bfe8-63d7-41e4-aa1e-45aa377d7e88,2024-03-17T00:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,121,128
+2023,f2ffd19c-544c-412f-b63b-4ccc617c7910,2024-03-19T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Atlanta Hawks,136,105
+2023,2e86f56e-2188-4081-8ef9-4c7b773b4a04,2024-03-23T02:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Philadelphia 76ers,101,94
+2023,177ef99e-8153-4501-974a-f9f629154d8a,2024-03-25T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Indiana Pacers,150,145
+2023,da0bcae5-3f4c-48a3-ac19-f240051ced3e,2024-03-26T23:30:00Z,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Milwaukee Bucks,Los Angeles Lakers,124,128
+2023,edc34128-f7fe-43bb-8c89-30b0d546d77c,2024-03-28T00:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,124,136
+2023,5ef14b3c-c9a6-4eb5-90a5-c1801ddecbe7,2024-03-29T23:00:00Z,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Indiana Pacers,Los Angeles Lakers,109,90
+2023,c45f61aa-8c12-4ecb-95cd-23cbf0e547b9,2024-03-31T22:00:00Z,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Brooklyn Nets,Los Angeles Lakers,104,116
+2023,7ac81549-2da3-4935-b6ef-dc8a463b6274,2024-04-02T23:00:00Z,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Toronto Raptors,Los Angeles Lakers,111,128
+2023,c4ab090e-9a7d-416a-b949-f7f5b5d8f339,2024-04-03T23:00:00Z,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Washington Wizards,Los Angeles Lakers,120,125
+2023,f43ae40d-a10c-4588-b021-3c04107b63b8,2024-04-06T19:30:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec773-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Cleveland Cavaliers,116,97
+2023,c2f502c3-98d8-49f6-8848-c1817fc9e444,2024-04-08T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Minnesota Timberwolves,117,127
+2023,e1553115-f042-4645-ad00-f0f4754f57e8,2024-04-10T02:00:00Z,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,583ec825-fb46-11e1-82cb-f4ce4684ea4c,Los Angeles Lakers,Golden State Warriors,120,134
+2023,f9efeedf-658f-4a71-86c4-a271bbbb9548,2024-04-13T00:00:00Z,583eca88-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,Memphis Grizzlies,Los Angeles Lakers,120,123
+2023,0247c9e7-4430-4d28-afec-0fd7d6d57d2f,2024-04-14T19:30:00Z,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,New Orleans Pelicans,Los Angeles Lakers,108,124
